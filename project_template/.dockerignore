@@ -9,3 +9,5 @@
 envs
 
 .coverage
+
+docs/build
